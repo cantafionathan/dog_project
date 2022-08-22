@@ -1,0 +1,22 @@
+{
+  "name": "Bill",
+  "health": 5,
+  "inventory": {
+    "balance": 200,
+    "foods": [
+      {
+        "satiety": 3,
+        "heartiness": 0,
+        "cost": 15,
+        "name": "Kibble"
+      },
+      {
+        "satiety": 5,
+        "heartiness": 2,
+        "cost": 50,
+        "name": "Steak"
+      }
+    ]
+  },
+  "hunger": 18
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Toby",
+  "health": 10,
+  "inventory": {
+    "balance": 100,
+    "foods": []
+  },
+  "hunger": 20
+}
